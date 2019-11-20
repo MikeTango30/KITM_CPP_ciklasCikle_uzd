@@ -1,0 +1,3 @@
+/home/captain/CLionProjects/ciklasCikle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/captain/CLionProjects/ciklasCikle/cmake-build-debug/CMakeFiles/ciklasCikle.dir
+/home/captain/CLionProjects/ciklasCikle/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ciklasCikle.dir/main.cpp.o  -o ciklasCikle 
